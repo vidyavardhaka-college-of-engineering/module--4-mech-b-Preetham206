@@ -12,7 +12,7 @@ int main()
    printf("Input elements of the array :%d\n",n);
    for(i=0;i<n;i++)
       {
-	   scanf(" %d",&arr1[i]);
+	   scanf("%d",&arr1[i]);
 	  }
    printf("The elements you entered are : \n");
    for(i=0;i<n;i++)
